@@ -6,7 +6,7 @@ function Header() {
             <div className="container-fluid container-xl position-relative d-flex align-items-center">
                 <Link href="/" className="logo d-flex align-items-center me-auto bg-black p-2 rounded">
                     <img src="/img/logoa.png" alt="logo" />
-                    <h1 className="sitename">AZAMILINK</h1>
+                    <h1 className="sitename">AZAMITALK</h1>
                 </Link>
 
                 <nav id="navmenu" className="navmenu">
