@@ -24,10 +24,10 @@ function Featured() {
                             </div>
                             <h4>
                                 <a href="" className="stretched-link">
-                                    Edit Foto & Video
+                                    Generate Foto & Video AI
                                 </a>
                             </h4>
-                            <p>Kami hadir untuk menghadirkan hasil editing yang cepat, presisi, dan berkualitas tinggi. 🎥</p>
+                            <p>Kami hadir untuk memberikan hasil editing yang cepat, presisi, dan berkualitas tinggi. 🎥</p>
                         </div>
                     </div>
 

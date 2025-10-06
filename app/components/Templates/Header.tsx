@@ -4,9 +4,9 @@ function Header() {
     return (
         <header id="header" className="header d-flex align-items-center sticky-top">
             <div className="container-fluid container-xl position-relative d-flex align-items-center">
-                <Link href="/" className="logo d-flex align-items-center me-auto bg-black p-2 rounded">
-                    <img src="/img/logoa.png" alt="logo" />
-                    <h1 className="sitename">AZAMITALK</h1>
+                <Link href="/" className="logo d-flex align-items-center me-auto">
+                    <img src="/img/logo.png" alt="logo" />
+                    <h1 className="sitename">AZAMILINK</h1>
                 </Link>
 
                 <nav id="navmenu" className="navmenu">
@@ -28,7 +28,7 @@ function Header() {
                         <li>
                             <Link href="/#team">Team</Link>
                         </li>
-                        <li className="dropdown">
+                        {/* <li className="dropdown">
                             <Link href="/#">
                                 <span>Dropdown</span> <i className="bi bi-chevron-down toggle-dropdown"></i>
                             </Link>
@@ -68,7 +68,7 @@ function Header() {
                                     <Link href="/#">Dropdown 4</Link>
                                 </li>
                             </ul>
-                        </li>
+                        </li> */}
                         <li>
                             <Link href="/#contact">Contact</Link>
                         </li>

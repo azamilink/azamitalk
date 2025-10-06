@@ -15,7 +15,7 @@ function About() {
                 <div className="row gy-4">
                     <div className="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
                         <img src="/img/about.png" className="img-fluid" alt="about" />
-                        <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" className="glightbox pulsating-play-btn"></a>
+                        <a href="https://www.youtube.com/embed/1YMMimUBPDc" className="glightbox pulsating-play-btn"></a>
                     </div>
                     <div className="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
                         <h3>Brand yang memahami pelanggannya akan selalu selangkah di depan.</h3>

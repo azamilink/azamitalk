@@ -4,7 +4,7 @@ import Header from './components/Templates/Header';
 import Footer from './components/Templates/Footer';
 
 export const metadata: Metadata = {
-    title: 'Azamitalk Digital Media',
+    title: 'AzamiLink Digital Media',
     description: 'Solusi Digital Marketing untuk Bisnis Anda',
     icons: {
         icon: '/favicon.ico',
